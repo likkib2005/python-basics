@@ -1,0 +1,10 @@
+var_1="likitha"
+var_2=1234
+var_3=True
+var_4=30.0
+var_5="1234"
+print(type(var_1))
+print(type(var_2))
+print(type(var_3))
+print(type(var_4))
+print(type(var_5))
